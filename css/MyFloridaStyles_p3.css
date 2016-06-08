@@ -1,0 +1,620 @@
+BODY {
+	FONT-SIZE: 75%; COLOR: #102b52; FONT-FAMILY: Arial, helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 75%; COLOR: #102b52; FONT-FAMILY: Arial, helvetica, sans-serif
+}
+TH {
+	FONT-SIZE: 75%; COLOR: #102b52; FONT-FAMILY: Arial, helvetica, sans-serif
+}
+.content {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+SELECT {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+
+.queries {
+word-spacing: 4; text-transform: capitalize;
+}
+
+.content_sm {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #333366; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.tabs {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #102b52; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.eserviceslink {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ff2524; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.tabs:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #cc0000; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.mypage_links {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-STYLE: italic; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.mypage_links:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #cc0000; FONT-STYLE: italic; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif; TEXT-DECORATION: underline
+}
+.search_text {
+	FONT-WEIGHT: bold; FONT-SIZE: 70%; COLOR: #000000; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.date {
+	FONT-WEIGHT: bold; FONT-SIZE: 70%; COLOR:#6b79a5; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.container_title {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.link {
+	FONT-WEIGHT: bold; FONT-SIZE: 95%; COLOR: #333366; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.link:hover {
+	COLOR: #cc0000; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.link2 {
+	FONT-SIZE: 95%; COLOR: #333366; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.link2:hover {
+	COLOR: #cc0000; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.footer {
+	FONT-SIZE: 9px; COLOR: #f7f7f7; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.footerlink {
+	FONT-SIZE: 9px; COLOR: #f7f7f7; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.footerlink:hover {
+	FONT-SIZE: 9px; COLOR: #cc0000; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.alert_text {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-STYLE: italic; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.dlink {
+	FONT-SIZE: 1%; COLOR: #eeeeee; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.tab-normal {
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url(/images/tab-normal.gif); BACKGROUND-REPEAT: no-repeat
+}
+.tab-selected {
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url(/images/tab-selected.gif); BACKGROUND-REPEAT: no-repeat
+}
+.folderon {
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url(/images/folderon2.gif); BACKGROUND-REPEAT: no-repeat
+}
+.sideon {
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url(/images/sideon.gif); BACKGROUND-REPEAT: no-repeat
+}
+.folderoff {
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url(/images/folderoff2.gif); BACKGROUND-REPEAT: no-repeat
+}
+.tab-space {
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url(/images/tab_space.gif); BACKGROUND-REPEAT: no-repeat
+}
+.tab {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #6148a9; TEXT-DECORATION: none
+}
+.tab-bgn {
+	BACKGROUND-IMAGE: url(/cshopping/images/tab-bgn.gif); BACKGROUND-REPEAT: repeat-x; BACKGROUND-COLOR: #d6dbe4
+}
+.sidenav {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.whitelink {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #299129; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.lightgreen {
+	BACKGROUND-COLOR: #0a720a
+}
+.searchBar {
+	FONT-SIZE: 71%
+}
+.copy {
+	FONT-SIZE: 71%
+}
+.globalNav {
+	FONT-SIZE: 75%
+}
+.topNav {
+	FONT-SIZE: 78%
+}
+.leftNavLevel2 {
+	FONT-SIZE: 100%
+}
+.leftNavLevel3 {
+	FONT-SIZE: 100%
+}
+.paraHeader {
+	FONT-SIZE: 100%
+}
+.subchannelSubhead {
+	FONT-SIZE: 100%
+}
+.bodyHeaderLink {
+	FONT-SIZE: 110%
+}
+.subchannelHead {
+	FONT-SIZE: 110%
+}
+.sectionHeader {
+	FONT-SIZE: 110%
+}
+.leftNav {
+	FONT-SIZE: 110%
+}
+.pageHeader {
+	FONT-SIZE: 125%
+}
+.bullet {
+	COLOR: #333366
+}
+A {
+	COLOR: #333399
+}
+.copy {
+	COLOR: #666666
+}
+.grayLink {
+	COLOR: #666666
+}
+.sectionHeader {
+	COLOR: #333366
+}
+.pageHeader {
+	COLOR: #333366
+}
+.leftNav {
+	COLOR: #333366
+}
+.leftNavLevel2 {
+	COLOR: #333366
+}
+.leftNavLevel3 {
+	COLOR: #333366
+}
+.blue {
+	COLOR: #333366
+}
+.pageHeaderCopy {
+	COLOR: #666699
+}
+.subchannelSubhead {
+	COLOR: #666699
+}
+.paraHeader {
+	COLOR: #870e18
+}
+.searchBar {
+	COLOR: #ffffff
+}
+.whiteLink {
+	COLOR: #ffffff
+}
+.blackLink {
+	COLOR: #000000
+}
+.sectionHeader {
+	FONT-WEIGHT: bold
+}
+.paraHeader {
+	FONT-WEIGHT: bold
+}
+.pageHeader {
+	FONT-WEIGHT: bold
+}
+.leftNav {
+	FONT-WEIGHT: bold
+}
+.leftNavLevel2 {
+	FONT-WEIGHT: bold
+}
+.bodyHeaderLink {
+	FONT-WEIGHT: bold
+}
+.subchannelHead {
+	FONT-WEIGHT: bold
+}
+.subchannelSubhead {
+	FONT-WEIGHT: bold
+}
+.whiteLink {
+	TEXT-DECORATION: none
+}
+.blackLink {
+	TEXT-DECORATION: none
+}
+.grayLink {
+	TEXT-DECORATION: none
+}
+.yellowModuleHeader {
+	BACKGROUND-COLOR: #ffdf83
+}
+.searchBarBG {
+	BACKGROUND-COLOR: #6b78a2
+}
+.searchBar {
+	BACKGROUND-COLOR: #6b78a2
+}
+.surveyBorder {
+	BACKGROUND-COLOR: #6b78a2
+}
+.darkGray {
+	BACKGROUND-COLOR: #999999
+}
+.midGray {
+	BACKGROUND-COLOR: #666666
+}
+BODY {
+	BACKGROUND-COLOR: #ffffff
+}
+.white {
+	BACKGROUND-COLOR: #ffffff
+}
+.banner {
+	BACKGROUND-COLOR: #e1dfea
+}
+.blueModuleHeader {
+	BACKGROUND-COLOR: #e1dfea
+}
+.rightColumn {
+	BACKGROUND-COLOR: #eff2f8; /* F2F2E6--: */
+}
+.rightColumn2 {
+	BACKGROUND-COLOR: #ffffff; /* F2F2E6--: */
+}
+.topNav {
+	BACKGROUND-COLOR: #d6dbe4
+}
+.topNavBG {
+	BACKGROUND-COLOR: #d6dbe4
+}
+.evenCell {
+	BACKGROUND-COLOR: #d1d5e0
+}
+.oddCell {
+	BACKGROUND-COLOR: #ffffcc
+}
+.calendarHead {
+	BACKGROUND-COLOR: #cccc99
+}
+.calendarOffMonth {
+	BACKGROUND-COLOR: #e6e6e6
+}
+.calendarCurrentDay {
+	BACKGROUND-COLOR: #9999cc
+}
+.pageTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #ffffff
+}
+#pageTitle {
+	BACKGROUND-COLOR: #6b78a2
+}
+#darkNeutral {
+	BACKGROUND-COLOR: #6b78a2
+}
+.listHeader {
+	FONT-WEIGHT: bold; COLOR: #666699
+}
+#listHeader {
+	BACKGROUND-COLOR: #e1dfea
+}
+.listItem {
+	FONT-WEIGHT: normal; COLOR: #000000
+}
+#listOdd {
+	BACKGROUND-COLOR: #e6e6e6
+}
+#listEven {
+	BACKGROUND-COLOR: #ffffff
+}
+.blockTitle {
+	FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: none
+}
+#blockTitle {
+	BACKGROUND-COLOR: #6b78a2
+}
+#menuFooter {
+	BACKGROUND-COLOR: #999999
+}
+#menuBg {
+	BACKGROUND-COLOR: #9999cc
+}
+.menuOff {
+	PADDING-BOTTOM: 0px; COLOR: #666699; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+#menuOff {
+	BACKGROUND-COLOR: #cccccc
+}
+.menuOn {
+	FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; COLOR: #666699; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+#menuOn {
+	BACKGROUND-COLOR: #ffffff
+}
+.blockHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #666699
+}
+#blockHeader {
+	BACKGROUND-COLOR: #cccccc
+}
+.projectName {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #666666
+}
+#lightNeutral {
+	BACKGROUND-COLOR: #cccccc
+}
+#blockBtn {
+	BACKGROUND-COLOR: #e1dfea
+}
+#sectionRule {
+	BACKGROUND-COLOR: #999999
+}
+.label {
+	FONT-WEIGHT: bold; COLOR: #666666
+}
+.pageSubtitle {
+	FONT-WEIGHT: bold; COLOR: #000000
+}
+#pageSubtitle {
+	BACKGROUND-COLOR: #cccccc
+}
+#titleBtn {
+	BACKGROUND-COLOR: #e1dfea
+}
+.blueBG {
+	BACKGROUND-COLOR: #ccccff
+}
+.red {
+	COLOR: #ff0000
+}
+.newLeftNavLevel2 {
+	FONT-SIZE: 75%
+}
+.newLeftNavLevel2Active {
+	FONT-SIZE: 75%
+}
+.newLeftNavLevel3 {
+	FONT-SIZE: 75%
+}
+.newLeftNavLevel3Active {
+	FONT-SIZE: 75%
+}
+.newLeftNavLevel4 {
+	FONT-SIZE: 60%
+}
+.newLeftNavLevel4Active {
+	FONT-SIZE: 60%
+}
+.newLeftNav {
+	FONT-SIZE: 85%
+}
+.newLeftNavActive {
+	FONT-SIZE: 85%
+}
+.newLeftNav {
+	COLOR: #333366
+}
+.newLeftNavActive {
+	COLOR: #333366
+}
+.newLeftNavLevel2 {
+	COLOR: #666699
+}
+.newLeftNavLevel2Active {
+	COLOR: #666699
+}
+.newLeftNavLevel3 {
+	COLOR: #666699
+}
+.newLeftNavLevel3Active {
+	COLOR: #666699
+}
+.newLeftNavLevel4 {
+	COLOR: #666699
+}
+.newLeftNavLevel4Active {
+	COLOR: #666699
+}
+.newLeftNav {
+	FONT-WEIGHT: bold
+}
+.newLeftNavActive {
+	FONT-WEIGHT: bold
+}
+.newLeftNavLevel2 {
+	FONT-WEIGHT: bold
+}
+.newLeftNavLevel2Active {
+	FONT-WEIGHT: bold
+}
+.newLeftNav {
+	TEXT-DECORATION: none
+}
+.newLeftNavLevel2 {
+	TEXT-DECORATION: none
+}
+.newLeftNavLevel3 {
+	TEXT-DECORATION: none
+}
+.newLeftNavLevel4 {
+	TEXT-DECORATION: none
+}
+.newLeftNavActive {
+	TEXT-DECORATION: underline
+}
+.newLeftNavLevel2Active {
+	TEXT-DECORATION: underline
+}
+.newLeftNavLevel3Active {
+	TEXT-DECORATION: underline
+}
+.newLeftNavLevel4Active {
+	TEXT-DECORATION: underline
+}
+.fullSize {
+	FONT-SIZE: 100%
+}
+.blueHeading {
+	FONT-WEIGHT: bold; FONT-SIZE: 90%; COLOR: #333399
+}
+.formText {
+	FONT-SIZE: 90%
+}
+.darkBlueBG {
+	BACKGROUND-COLOR: #6b78a2
+}
+.blueText {
+	COLOR: #333399
+}
+.grayText {
+	COLOR: #999999
+}
+.footer {
+	FONT-SIZE: 9px; COLOR: #f7f7f7; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.footerlink {
+	FONT-SIZE: 9px; COLOR: #f7f7f7; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+.footerlink:hover {
+	FONT-SIZE: 9px; COLOR: #cc0000; FONT-FAMILY: Verdana, Geneva, Arial, helvetica, sans-serif
+}
+
+
+.folderon {
+
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url(/images/folderon.gif); BACKGROUND-REPEAT: no-repeat
+
+}
+
+.folderoff {
+
+	BACKGROUND-POSITION: center top; BACKGROUND-IMAGE: url(/images/folderoff.gif); BACKGROUND-REPEAT: no-repeat
+
+}
+
+.bordercolor{
+
+	background : Gray;
+
+}
+
+td.border{
+
+	border-bottom :  1px solid Gray;
+
+}
+
+/* search engine to change the back ground for entire quick links including QL and summary*/
+.qltable { 
+    background-color: #cccccc;
+}
+/* search engine to change the heading "Quick Links:" */
+.qlheader {
+   font-size: 100%;  
+   color: black;
+}
+/* search engine this will the entire text including QL name and summeries */
+.qltext {
+   font-size: 100%;      
+   color: #00FFFF;
+}
+
+a.external_link span { display:none; }
+a.external_link {
+  background: url(/images/external.png) center right no-repeat;
+  padding-right: 13px;
+}
+
+/* These styles are for the search engine results */
+
+div.resultspage .query{
+border:none;
+background-color:#ffffff;
+}
+
+div.resultspage .query table{
+border:none;
+}
+
+div.resultspage .tip{
+display:none;
+}
+
+div.home .tip{
+display:none;
+}
+
+div.home .query{
+background-color:#FFF9DD;
+}
+
+div.navbar table{
+background-color:#D6DBE4;
+}
+
+div.quicklinks table{
+border-top:solid 2px #666699;
+background-color:#FFF9DD;
+padding-left:10px;
+}
+
+div.quicklinks hr{
+display:none;
+border:solid 1px #666699;
+}
+
+div.quicklinks li{
+  list-style:none;
+}
+
+div.quicklinks .qltext{
+color:#ffffff;
+}
+
+div.results a:link,div.results a:hover,div.results a:visited {
+color:#333399;
+}
+
+div.results .description {
+color:#101010;
+}
+
+div.results .url {
+color:#009900;
+}
+
+div.results .size {
+color:#009900;
+}
+
+div.results .collections {
+color:#CC3300;
+}
+
+div.results .score {
+color:#CC3300;
+}
+
+div.results hr {
+border:solid 1px #ffffff;
+}
+
+div.results .leftbar {
+display:none;
+}
+
+div.results .rightbar {
+display:none;
+}
+
+/* end */
+
+
+
+
+
+
+
+
